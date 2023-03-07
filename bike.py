@@ -9,7 +9,7 @@ COLUMNA = 'started_at'
 
 st.markdown("<h1 style='text-align: center; color: black;'>TRAVELING BY BIKE</h1>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center; color: black;'>Yolotzin Groth Hernandez</h4>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center; color: black;'>zs200020311@estudiantes.uv.mx</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center; color: black;'>zs20020311@estudiantes.uv.mx</h4>", unsafe_allow_html=True)
 sidebar = st.sidebar
 
 
